@@ -1,96 +1,56 @@
 
 
-# UAS RIZKY ANANDA(701220002) <br>
+# Alveril Muhaikal(701220041) <br>
 ## Sistem Kasir Sederhana 
 
 <br>
 Untuk mengakses Halaman Login:
 <br><br>
 1.kasir<br>
-Username: rizky@gmail.com<br>
-Password: rizky<br>
+Username: veril@gmail.com<br>
+Password: kasir veril<br>
 <br>
 2.Gudang<br>
-Username: ananda@gmail.com<br>
-Password: ananda<br>
+Username: alverilmuhaikal@gmail.com<br>
+Password: alveril<br>
 <br>
 3.Owner<br>
-Username: iki@gmail.com<br>
-Password: iki<br>
-<br>
-<br>
-<p>Website Kasir Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2.
-</p>
-
-Dengan ketentuan Tugas: <br><br>
-![WhatsApp Image 2023-12-04 at 08 58 47_333402f7](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/05e7657f-528d-4a91-b0d4-f1cdbd6fb192)<br><br>
-
-- Terdapat 9 kolom input data dimana salah satu kolomnya harus ada input gambar
-<br><br>
-![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37c49d88-d677-43ee-9f23-f9d9aa6a21d8)
-
-<br><br>
-<br>
-<br>
-<br><br>
-<br>
-dan memuat minimal 3 tabel database. <br><br><br>
-![Screenshot (315)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/b2ee247b-05a9-40a0-bd1b-215e8c80f722)
-
-<br><br>
-
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br>
-
-- Terdapat fungsi CRUD.<br>
-<br><br><br><br><br><br><br>
-![Screenshot (316)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37dd503f-1c22-4bd0-a2b1-148a078ac56c)
-<br>
-<br>
-<br><br><br><br>
-<br><br>
-
-![Screenshot (320)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/42828c44-296c-4bd9-a51a-0bbe087f0859)
-
-<br><br><br><br>
-<br><br>
-
-- Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
-
-![Screenshot (317)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/cdc269a5-d39c-4dfd-b65b-e4e1cab4c1ea)
-<br><br>
-
-<small>nb:karena saya membuat web ini berdasarkan referensi dari youtube Team trainit saya tidak tau apakah sistem informasi saya menarik atau tidak
-ini adalah link youtube referensi saya: https://youtube.com/playlist?list=PLoYZCiuF11rypAjU5KsuWZdBsUN1L6qhh&si=4qR-TzmzYtdWoemP</small>
-<br>
-<br>
-<br>
+Username: alveril@gmail.com<br>
+Password: verill<br>
 <br>
 
-- Login Multi User dengan akses cetak laporan <br><br>
-![Screenshot (318)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/add919c1-8887-4d7e-ba11-d0606162590a)
-<br>
-Disini saya ada 3 multi user yang berupa dan bisa ditambah lagi sesuai yang diinginkan 
-<br>
-1.kasir
-<br>Username:rizky@gmail.com
-<br>Password:rizky
-<br>
-2.Gudang
-<br>Username:ananda@gmail.com
-<br>Password:ananda
-<br>
-3.Owner
-<br>Username:iki@gmail.com
-<br>Password:iki
-<br><br><br>
-dan juga terdapat fitur cetak laporan pada halaman checkout kasir<br><br>
 
-<br><br>
-![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/b3e47840-12fe-4412-afcf-bd7c65e4651a)
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/be275be8-71c7-4df9-b2d9-b5bb2e2509e6)
+
+ketentuan:
+
+
+
+-halaman pendaftaran 9 kolom
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/506d4d7c-fcea-496b-a037-6d2e3e0b83bd)
+
+
+-halaman CRUD
+
+-halaman create sudah digunakan saat menambah data produk
+
+-halaman read/melihat
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/61b671e0-2463-426f-ac8c-82e5d8580cd9)
+
+
+-halaman update & delete 
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/d0727739-e49f-401e-aacf-57cf627cdb17)
+
+
+
+-bagian login, bisa 3 user level sesuai sandi
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/68419dc3-16dc-4629-859e-5430c7a61875)
+
+
+-halaman print
+![image](https://github.com/AlverilMuhaikal/UAS_P.web2/assets/148617212/57d621db-ea4f-43a3-9cea-2a13d7734087)
+
+
 
 <p>Mungkin Hanya itu saja laporan saya Maaf apabila banyak kekurangan saya juga mengucapkan terima kasih  </p>
 
